@@ -3,7 +3,7 @@ import "./ComputationScreen.css";
 
 const ComputationScreen = (props) => (
     <div className="ComputationScreen">
-      {props.children}
+    {props.children}
     </div>
   );
   export default ComputationScreen;
