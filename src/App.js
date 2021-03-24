@@ -1,7 +1,7 @@
 
 import './App.css';
 import './Styles.css'
-import Calculator from "./Calculator.js"
+import Calculator from "./Calculator";
 
 function App() {
   return (
